@@ -1,4 +1,4 @@
-$navbar-default-bg: black;
+$navbar-default-bg: #cccccc;
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
@@ -37,7 +37,15 @@ $navbar-default-bg: black;
 
 .btn-xlarge{
   font-size: 1.7em;
-  background-color: black;
+  background-color: #cccccc;
+  border-color: #000000;
+  border-width: medium;
+}
+
+.btn-xlarge:hover{
+  background-color: #999999;
+  border-color: #000000;
+  border-width: medium;
 }
 
 footer{
