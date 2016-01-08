@@ -48,6 +48,12 @@ $navbar-default-bg: #cccccc;
   border-width: medium;
 }
 
+.btn-xlarge:active{
+  background-color: #999999 !important;
+  border-color: #000000 !important;
+  border-width: medium;
+}
+
 .article-meta-details{
   border-top: 1px solid #eaeaea;
   margin-top: 15px;
